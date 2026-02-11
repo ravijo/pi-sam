@@ -26,7 +26,7 @@ print("Model configuration done.")
 
 def main():
     start = time.time()
-    input_path = "image.jpg"
+    input_path = "input.jpg"
 
     # Run inference with minimal settings
     print("Model inference started...")
