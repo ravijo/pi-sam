@@ -219,7 +219,7 @@ Model configuration done.
 Model inference started...
 Model inference done.
 Output saved to output.jpg
-Model inference took 13.7s
+Model inference took 12.0s
 ```
 
 ## 📊 Observed performance
